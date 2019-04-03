@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+.merlin
+.bsb.lock
+npm-debug.log
+/lib/bs/
